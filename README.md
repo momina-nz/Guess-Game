@@ -54,17 +54,17 @@ The Great Guessing Game is a command-line word guessing game implemented in **Py
 - Giving up **negatively impacts** the score.
   
 ## Example Gameplay
-++
-++ The great guessing game
-++
-
-Current Guess: ----
-Letters Guessed: a, e, i
-
-g = guess, t = tell me, l for a letter, q to quit
-Enter Option: l
-Enter a letter: o
-@@ FEEDBACK: Woo Hoo, You found 1 letter(s)
+- ++
+- ++ The great guessing game
+- ++
+- 
+- Current Guess: ----
+- Letters Guessed: a, e, i
+- 
+- g = guess, t = tell me, l for a letter, q to quit
+- Enter Option: l
+- Enter a letter: o
+- @@ FEEDBACK: Woo Hoo, You found 1 letter(s)
 
 ## Notes
 ```markdown
